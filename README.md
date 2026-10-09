@@ -96,7 +96,31 @@ The report is designed to support decision-making; it does not independently est
 5. Explore the report using its navigation controls, slicers, and drill-through pages.
 
 Dataset availability and refresh requirements depend on the original data sources and sharing permissions.
+## Dashboard Preview
 
+### Project Overview
+![Project Overview](screenshots/project-overview.png)
+
+### Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
+
+### Cold-Chain Analysis
+![Cold-Chain Analysis](screenshots/cold-chain-analysis.png)
+
+### Shelf-Life & Wastage
+![Shelf-Life & Wastage](screenshots/shelf-life-wastage.png)
+
+### Logistics Analysis
+![Logistics Analysis](screenshots/logistics-analysis.png)
+
+### Incident Analysis
+![Incident Analysis](screenshots/incident-analysis.png)
+
+### Warehouse & Route Analysis
+![Warehouse & Route Analysis](screenshots/warehouse-route-analysis.png)
+
+### Key Insights & Recommendations
+![Key Insights & Recommendations](screenshots/key-insights.png)
 ## Author
 
 **Jayesh Sharma**
